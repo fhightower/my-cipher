@@ -1,0 +1,10 @@
+black; python_version > '3.5'
+codecov
+flake8
+flake8-cognitive-complexity
+ipython
+mkdocs-material
+mypy
+pylint
+pytest
+pytest-cov
